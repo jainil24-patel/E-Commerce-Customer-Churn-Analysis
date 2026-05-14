@@ -207,7 +207,7 @@ https://github.com/jainil24-patel/E-Commerce-Customer-Churn-Analysis
 
 Author
 
-Mr. Patel
+Jainil Bhatasana
 
 MSc IT for Business Data Analytics
 
