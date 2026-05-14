@@ -188,7 +188,6 @@ Increase profitability
 Support data-driven decision-making
 Project Structure
 
-E-Commerce-Customer-Churn-Analysis │ ├── Dataset/ ├── Source_Code/ ├── Models/ ├── Images/ ├── Project_Report/ ├── README.md
 
 Future Improvements
 
@@ -209,6 +208,6 @@ Author
 
 Jainil Bhatasana
 
-MSc IT for Business Data Analytics
+Business Data Analysis Project
 
 Machine Learning-Based Customer Churn Prediction and Customer Segmentation Using RFM Analytics in E-Commerce
